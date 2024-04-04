@@ -11,7 +11,7 @@
     <!-- XGBoost -->
     <img alt="xgboost" src="https://img.shields.io/badge/xgboost-FFFFFF?style=flat&labelColor=E30B21&color=FFFFFF&logo=xgboost&logoColor=FFFFFF">
     <!-- Status -->
-    <img alt="status" src="https://img.shields.io/badge/Status-Em_desenvolvimento-FFFFFF?style=flat&logoColor=1ED760&labelColor=000000">
+    <img alt="status" src="https://img.shields.io/badge/Status-Concluído-FFFFFF?style=flat&logoColor=1ED760&labelColor=000000">
 </p>
 
 # Projeto: Detecção de Doenças cardíacas
